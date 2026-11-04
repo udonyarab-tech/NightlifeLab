@@ -1,0 +1,15 @@
+*{box-sizing:border-box;margin:0;padding:0}
+body{font-family:"Helvetica Neue",Arial,"Hiragino Kaku Gothic ProN",Meiryo,sans-serif;background:#111;color:#eee;line-height:1.7}
+a{color:#f0a;text-decoration:none}a:hover{text-decoration:underline}
+header{background:#1a1a1a;border-bottom:2px solid #f0a;padding:16px 20px}
+header h1{font-size:1.4rem}header h1 a{color:#fff}
+nav{margin-top:8px;font-size:.9rem}nav a{margin-right:16px;color:#ccc}
+main{max-width:800px;margin:0 auto;padding:30px 20px}
+.card{background:#1c1c1c;border-radius:8px;padding:20px;margin-bottom:20px}
+.card h2{font-size:1.15rem;margin-bottom:8px}
+.meta{color:#888;font-size:.8rem;margin-bottom:10px}
+article h1{font-size:1.6rem;margin-bottom:10px}
+article h2{margin:24px 0 8px;font-size:1.2rem;border-left:4px solid #f0a;padding-left:10px}
+article p{margin-bottom:14px}
+footer{text-align:center;color:#777;font-size:.8rem;padding:30px 20px;border-top:1px solid #333;margin-top:40px}
+footer a{color:#999;margin:0 8px}
